@@ -1,6 +1,7 @@
 # hello-world
-Getting started
 
-hello, today i start my github experience
+## Getting started
 
-hello fuckers, it is Monday, May 13 2019 already!!
+Hello, today i start my github experience! **Fascinating**? *I sure hope so*!
+
+Hello world, it is Monday, October 21 2024 already!!
